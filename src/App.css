@@ -46,3 +46,13 @@ body {
   border-radius: 30px;
   font-family: 'Poppins';
 }
+
+.memeImageContainer{
+  width: 300px;
+  margin: 0 auto;
+}
+
+.memeImageContainer img{
+  margin-top: 30px;
+  width: 100%;
+}
